@@ -14,6 +14,7 @@ Chatbot built in Python that summarizes PDF files using AI.
 - Python
 - APIs
 - AI / LLMs
+- SQL
 - Git & GitHub
 
 
