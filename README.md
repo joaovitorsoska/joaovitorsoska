@@ -28,5 +28,5 @@ Chatbot built in Python that summarizes PDF files using AI.
 ---
 
 ### 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/joaovitorsoska
+- 💼 LinkedIn: www.linkedin.com/in/joao-vitor-soska
 - ✉️ Email: joaovitorhenriquesoska@gmail.com
