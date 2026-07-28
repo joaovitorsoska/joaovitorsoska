@@ -10,20 +10,15 @@ Currently improving my skills in Python, APIs and data processing, aiming to cre
 🤖 bot-pdf-resumer  
 Chatbot built in Python that summarizes PDF files using AI.
 
-**Tech stack:**
-- Python
+**Tech skills:**
+- Python(pandas, Numpy)
+- SQL
 - APIs
 - AI / LLMs
-- SQL
-- Git & GitHub
-
-
- 🧠 Skills
-- Python  
-- Pandas, NumPy  
-- APIs  
-- Artificial Intelligence & Machine Learning (student)  
-- Git & GitHub  
+- Power BI
+- Databricks
+- PySpark
+- Git & GitHub 
 
 ---
 
