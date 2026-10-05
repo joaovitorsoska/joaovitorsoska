@@ -2,7 +2,7 @@
 
  Estudante de Inteligência Artificial e Machine Learning
 
-Sou estudante de IA e Machine Learning, com interesse em Machine Learnin, Data Science, Deep Learning e MLops.
+Sou estudante de IA e Machine Learning, com interesse em Machine Learning, Data Science, Deep Learning e MLops.
 Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilidades e construir experiência na área de tecnologia.
 
 🌐 Conecte-se comigo:
